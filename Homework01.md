@@ -21,7 +21,3 @@
 	- Abstractions - Taking a complex set of steps/processes and breaking them down into understandable parts that can can be developed as part of a complete system.
 	- Conversations - Communication is the key to developing good software.  Understanding requirements, interactions with other developers, components, etc all requires conversations in order to successfully drive a software project.
 
-```
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTI1MTg2NzZdfQ==
--->
